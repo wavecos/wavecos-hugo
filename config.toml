@@ -48,6 +48,6 @@ disqusShortname = "onix"
 # Add additional social link entries underneath
 [social]
     twitter  = "https://www.twitter.com/wavecos"
-    facebook = "https://www.facebook.com/"
+    # facebook = "https://www.facebook.com/"
     github   = "https://www.github.com/wavecos"
     # dribble  = "https://www.dribbble.com/"
